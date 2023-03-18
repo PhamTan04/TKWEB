@@ -13,7 +13,7 @@ header{background: -moz-repeating-linear-gradient();
     color:red;
     padding-top:5px;
     min-height: max-content;
-    border-bottom: 0ch;
+    border-bottom:6px;
     background-color: bisque;
        
        
