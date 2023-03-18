@@ -24,6 +24,6 @@ footer{padding: 0ch;
        margin-top: 0cap;
        color: red;
        background-color: bisque;
-       text-align::after
+       text-align:center;
 }
 
