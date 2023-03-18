@@ -1,0 +1,29 @@
+body{ font:100;
+      padding-block:unset;
+      margin-bottom: 0cqmax;
+      background-color: aqua;
+  
+  
+
+}
+
+
+/* Header **/
+header{background: -moz-repeating-linear-gradient();
+    color:red;
+    padding-top:5px;
+    min-height: max-content;
+    border-bottom: 0ch;
+    background-color: bisque;
+       
+       
+ 
+}
+
+footer{padding: 0ch;
+       margin-top: 0cap;
+       color: red;
+       background-color: bisque;
+       text-align::after
+}
+
