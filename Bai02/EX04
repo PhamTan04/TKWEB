@@ -1,0 +1,66 @@
+body{
+  font: 15px/1.5 Arial;
+  padding: 0;
+  margin: 0;
+  background-color: ;
+}
+
+
+/* Header **/
+header{
+  
+  background-color: #FFCC33;
+  padding-top: 30px;
+  min-height: 70px;
+
+}
+
+header a{
+ color: black; 
+
+}
+
+header li{
+ color: black;
+
+}
+
+header #branding{
+  color: black;
+
+}
+
+header #branding h1{
+  
+
+}
+
+header nav{
+ 
+
+}
+
+header .highlight, header .current a{
+  color: #66CCFF;
+
+}
+
+header a:hover{
+  
+
+}
+
+
+footer{
+  color: black;
+  background: #66CCFF;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+
+}
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+    color: #FFCC33;
+  }
+
