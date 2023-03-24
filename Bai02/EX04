@@ -61,6 +61,7 @@ footer{
 }
 
 #newsletter form input[type="email"], .quote input, .quote textarea{
-    color: #FFCC33;
+    color: #DD0000;
+    
   }
 
