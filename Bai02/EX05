@@ -12,7 +12,9 @@ body{
 
 }
 
-ul{
+ul{font-size: 15px;
+  font-style: unset;
+  color: #00ff00;
  
 
 }
