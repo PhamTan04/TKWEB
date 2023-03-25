@@ -2,66 +2,78 @@ body{
   font: 15px/1.5 Arial;
   padding: 0;
   margin: 0;
-  background-color: ;
+  background-color:#66CCFF;
 }
 
 
 /* Header **/
 header{
   
-  background-color: #FFCC33;
+  background: #FFCC33;
+  color:#ff3300;
   padding-top: 30px;
   min-height: 70px;
+  border-bottom:#ff3333; 
 
 }
 
 header a{
- color: black; 
+ color:#ff6699;
+ text-decoration:dotted;
+ text-transform:capitalize;
+ font-size:small;
 
 }
 
 header li{
- color: black;
+  float:left;
+  display:block;
+  padding: 5px;
 
 }
 
 header #branding{
-  color: black;
+  float:left;
 
 }
 
 header #branding h1{
+  margin:5px;
   
 
 }
 
 header nav{
+  float:right;
+  margin-top: 4px;
  
 
 }
 
 header .highlight, header .current a{
   color: #66CCFF;
+  font-weight: 100;
 
 }
 
 header a:hover{
+  color: #00ff00;
+  font-weight:200;
   
 
 }
 
 
 footer{
-  color: black;
-  background: #66CCFF;
-  padding: 20px;
-  margin: 20px;
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
   text-align: center;
-
 }
 
 #newsletter form input[type="email"], .quote input, .quote textarea{
-    color: #DD0000;
-    
+    width: max-content;
+    margin-bottom: 5px;
   }
 
