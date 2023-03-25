@@ -78,7 +78,8 @@ header #branding{
   height:50ch;
   background:url("https://phongvu.vn/cong-nghe/wp-content/uploads/2018/07/Cach-chup-man-hinh-may-tinh-windows-va-macbook.png");
   background-size: cover;
-  background-repeat: inherit;
+  background-repeat:repeat;
+  background-position: center;
  
 }
 
