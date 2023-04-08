@@ -1,0 +1,160 @@
+body{
+    font: 15px/1.5 Arial;
+    padding: 0;
+    margin:0;
+    background-color:#66CCFF;
+  }
+/* Global */
+.container{margin: 15px;
+  
+
+}
+
+ul{font-size: 15px;
+  font-style: unset;
+  color: #00ff00;
+ 
+
+}
+.button_1{ color: #ff3300;
+  
+}
+
+.dark{
+  
+}
+
+/* Header **/
+header{
+  
+    background: #FFCC33;
+    color:#ff3300;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom:#ff3333; 
+  
+  }
+  header a{
+    color:#ff6699;
+    text-decoration:dotted;
+    text-transform:capitalize;
+    font-size:small;
+   
+   }
+   header li{
+    float:left;
+    display:block;
+    padding: 5px;
+  
+  }
+header #branding{
+    float:left;
+  
+  }
+  
+  header #branding h1{
+    margin:5px;
+    
+  
+  }
+
+  header nav{
+    float:right;
+    margin-top: 4px;
+   
+  
+  }
+
+  header .highlight, header .current a{
+    color: #66CCFF;
+    font-weight: 100;
+  
+  }
+  
+  header a:hover{
+    color: #00ff00;
+    font-weight:200;
+    
+  
+  }
+/* Showcase */
+#showcase{
+    height:50ch;
+    background:url("https://phongvu.vn/cong-nghe/wp-content/uploads/2018/07/Cach-chup-man-hinh-may-tinh-windows-va-macbook.png");
+    background-size: cover;
+    background-repeat:repeat;
+    background-position: center;
+    margin-top:-16px;
+   
+  }
+  
+  #showcase h1{
+    font-size: 20px;
+    font-style: normal;
+    color: #ff3300;
+  
+  
+  }
+  
+  #showcase p{color: #FFCC33;
+font-size: 15px;
+    
+  
+    
+  }
+/* Newsletter */
+#newsletter{
+    background-color: #FFCC33;
+    height: 5ch;
+
+  
+}
+
+#newsletter h1{color: #e8491d;
+    margin-top: -50px;
+   
+               
+
+  
+}
+
+#newsletter form {
+    float:right;
+    margin-top:-40px;
+
+  
+}
+
+#newsletter input[type="email"]{
+    color: #e8491d;
+    border-style:inset;
+    border-color: aqua;
+  
+}
+/* Boxes */
+#boxes{
+  columns:3;
+
+  
+}
+
+#boxes .box{
+ width: 350px;
+ text-align: center;
+ box-sizing:border-box;
+
+  
+}
+
+#boxes .box img{
+ width:90px;
+ margin:top:20px;
+}
+
+footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#e8491d;
+    text-align: center;
+  }
